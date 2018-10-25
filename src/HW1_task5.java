@@ -1,4 +1,7 @@
 //Part5
+//Exel. Перевод из номера ячейки в буквенное обозначение
+//Exel. Перевод из буквенного обозначения ячейки в номер
+//Exel. Ячейка справа от текущего обозначения
 public class HW1_task5 {
 
 	public static int chars2digits(String number) {

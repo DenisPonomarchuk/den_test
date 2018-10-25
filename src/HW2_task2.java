@@ -1,9 +1,10 @@
 import java.util.Scanner;
 
 /*
- 2. Программа должна подсчитывать и выводить площадь треугольника. 
- Стороны задаются пользователем с консоли.
- */
+2. РџСЂРѕРіСЂР°РјРјР° РґРѕР»Р¶РЅР° РїРѕРґСЃС‡РёС‚С‹РІР°С‚СЊ Рё РІС‹РІРѕРґРёС‚СЊ РїР»РѕС‰Р°РґСЊ С‚СЂРµСѓРіРѕР»СЊРЅРёРєР°. 
+РЎС‚РѕСЂРѕРЅС‹ Р·Р°РґР°СЋС‚СЃСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј СЃ РєРѕРЅСЃРѕР»Рё.
+*/
+
 public class HW2_task2 {
 
 //	public static void main(String[] args) {
@@ -23,7 +24,7 @@ public class HW2_task2 {
 	public static void main(String[] args) {
 		int a, b, c, p;
 		double S;
-		System.out.println("Введите три числа: ");
+		System.out.println("Р’РІРµРґРёС‚Рµ С‚СЂРё С‡РёСЃР»Р°: ");
 		Scanner sc = new Scanner(System.in);
 		a = sc.nextInt();
 		b = sc.nextInt();

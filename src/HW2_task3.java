@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 /*
- 3. Программа должна вывести длину окружности. 
- Радиус задается пользователем с консоли.
- */
+3. РџСЂРѕРіСЂР°РјРјР° РґРѕР»Р¶РЅР° РІС‹РІРµСЃС‚Рё РґР»РёРЅСѓ РѕРєСЂСѓР¶РЅРѕСЃС‚Рё. 
+Р Р°РґРёСѓСЃ Р·Р°РґР°РµС‚СЃСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј СЃ РєРѕРЅСЃРѕР»Рё.
+*/
 public class HW2_task3 {
 
 //	public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class HW2_task3 {
 
 // or
 	public static void main(String[] args) {
-		System.out.print("Введите число: ");
+		System.out.print("Р’РІРµРґРёС‚Рµ С‡РёСЃР»Рѕ: ");
 		Scanner sc = new Scanner(System.in);
 		int r = sc.nextInt();
 		double L = 2 * Math.PI * r;
