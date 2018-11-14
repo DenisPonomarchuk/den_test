@@ -5,10 +5,10 @@ public class BookShelf {
 
 	public BookShelf() {
 		arr = new Book[4];
-		Book b0 = new Book("Философия", "Ivanov", "AST", 1990, 50, 304, "hard");
-		Book b1 = new Book("Азбука", "Petrov", "Polus", 1973, 632, 100, "soft");
-		Book b2 = new Book("Очерки", "Ivanov", "AST", 1994, 53, 26, "hard");
-		Book b3 = new Book("Программирование на java", "Petrov", "Word", 2005, 1050, 1000, "soft");
+		Book b0 = new Book("Р¤РёР»РѕСЃРѕС„РёСЏ", "Ivanov", "AST", 1990, 50, 304, "hard");
+		Book b1 = new Book("РђР·Р±СѓРєР°", "Petrov", "Polus", 1973, 632, 100, "soft");
+		Book b2 = new Book("РћС‡РµСЂРєРё", "Ivanov", "AST", 1994, 53, 26, "hard");
+		Book b3 = new Book("РџСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ РЅР° java", "Petrov", "Word", 2005, 1050, 1000, "soft");
 		arr[0] = b0;
 		arr[1] = b1;
 		arr[2] = b2;
