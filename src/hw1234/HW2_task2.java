@@ -1,10 +1,11 @@
-import java.util.Scanner;
-
 /*
 2. Программа должна подсчитывать и выводить площадь треугольника. 
 Стороны задаются пользователем с консоли.
 */
 
+package hw1234;
+
+import java.util.Scanner;
 public class HW2_task2 {
 
 //	public static void main(String[] args) {

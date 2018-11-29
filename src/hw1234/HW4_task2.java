@@ -2,6 +2,8 @@
  * написать метод, который принимает массив целых чисел и 
  * возвращает максимальное
  * */
+package hw1234;
+
 public class HW4_task2 {
 	public static int max(int[] mas) {
 		int max = mas[0];

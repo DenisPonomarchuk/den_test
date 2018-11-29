@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 /*
 1)
@@ -13,6 +12,9 @@ C помощью циклов нарисовать такую фигуру:
 Максимальная высота вводится с клавиатуры
 */
 
+package hw1234;
+
+import java.util.Scanner;
 public class HW3_task1 {
 	public static void main(String[] args) {
 		System.out.print("Введите высоту фигуры: ");

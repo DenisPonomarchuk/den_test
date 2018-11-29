@@ -4,6 +4,8 @@ Part4
 цифры целого положительного числа, переданного в приложение как параметр 
 командной строки.
  */
+package hw1234;
+
 public class HW1_task4 {
 
 	public static void main(String[] args) {

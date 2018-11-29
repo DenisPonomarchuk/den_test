@@ -1,9 +1,10 @@
-import java.util.Scanner;
-
 /*
 3. Программа должна вывести длину окружности. 
 Радиус задается пользователем с консоли.
 */
+package hw1234;
+
+import java.util.Scanner;
 public class HW2_task3 {
 
 //	public static void main(String[] args) {
