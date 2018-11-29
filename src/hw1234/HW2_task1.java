@@ -3,6 +3,8 @@
   и вывести каждую цифру с новой строки.
 
  */
+package hw1234;
+
 import java.util.Scanner;
 
 public class HW2_task1 {

@@ -2,6 +2,8 @@
 //Exel. Перевод из номера ячейки в буквенное обозначение
 //Exel. Перевод из буквенного обозначения ячейки в номер
 //Exel. Ячейка справа от текущего обозначения
+package hw1234;
+
 public class HW1_task5 {
 
 	public static int chars2digits(String number) {

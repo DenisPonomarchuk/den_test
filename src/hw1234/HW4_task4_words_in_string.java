@@ -1,6 +1,7 @@
 /*
  * реализовать метод, который вернет количество слов в строке текста
  * */
+package hw1234;
 
 //import java.util.regex.Matcher;
 //import java.util.regex.Pattern;

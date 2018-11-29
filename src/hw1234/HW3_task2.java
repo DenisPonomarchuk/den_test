@@ -1,6 +1,7 @@
 /*
  * 2) Вывести только простые числа от 1 до 100
  * */
+package hw1234;
 
 public class HW3_task2 {
 	static boolean elem(int i1) {
